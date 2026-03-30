@@ -12,5 +12,8 @@ int main(){
         cout<<"Teknologi Informasi UMY"<<endl;
     }
     cout<<endl;
-//untuk mendapatkan urutan angka acak yang berbeda
+    //untuk mendapatkan urutan angka acak yang berbeda
+    srand(time(0));
+
+    //Perulangan dengan WHILE
 } 
