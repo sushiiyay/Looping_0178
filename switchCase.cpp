@@ -51,5 +51,5 @@ int main (){
     pilihanJurusan();
     output();
 
-    return 0:
+    return 0;
 }
